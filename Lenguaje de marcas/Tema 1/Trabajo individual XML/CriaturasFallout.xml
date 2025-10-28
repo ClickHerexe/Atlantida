@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fallout>
+    <categoria tipo="hostiles">
+        <criatura id="0007916A">
+            <nombre>Cazador</nombre>
+            <movilidad>Volador</movilidad>
+            <vida valor="HP">225</vida>
+        </criatura>
+        <criatura id="00021BF0">
+            <nombre>Super Mutante</nombre>
+            <movilidad>Terrestre</movilidad>
+            <vida valor="HP">250</vida>
+        </criatura>
+        <criatura id="000E5A92">
+            <nombre>Gecko</nombre>
+            <movilidad>Terrestre</movilidad>
+            <vida valor="HP">60</vida>
+        </criatura>
+        <criatura id="000A5B70">
+            <nombre>Rata Topo</nombre>
+            <movilidad>Terrestre</movilidad>
+            <vida valor="HP">45</vida>
+        </criatura>
+        <criatura id="000CAF78">
+            <nombre>Mantis Religiosa</nombre>
+            <movilidad>Terrestre</movilidad>
+            <vida valor="HP">36</vida>
+        </criatura>
+        <criatura id="0012B9A2">
+            <nombre>Acechador Nocturno</nombre>
+            <movilidad>Terrestre</movilidad>
+            <vida valor="HP">110</vida>
+        </criatura>
+        <criatura id="0008F5ED">
+            <nombre>Escorpión</nombre>
+            <movilidad>Terrestre</movilidad>
+            <vida valor="HP">180</vida>
+        </criatura>
+        <criatura id="000CEBF9">
+            <nombre>Sanguinario</nombre>
+            <movilidad>Terrestre</movilidad>
+            <vida valor="HP">600</vida>
+        </criatura>
+    </categoria>
+    <categoria tipo="pacificos">
+        <criatura id="0002E1F0">
+            <nombre>Vaca brahmin</nombre>
+            <movilidad>Terrestre</movilidad>
+            <vida valor="HP">210</vida>
+        </criatura>
+        <criatura id="0007DAA0">
+            <nombre>Ave</nombre>
+            <movilidad>Volador</movilidad>
+            <vida valor="HP">10</vida>
+        </criatura>
+        <criatura id="000FA829">
+            <nombre>Buitre</nombre>
+            <movilidad>Volador</movilidad>
+            <vida valor="HP">50</vida>
+        </criatura>
+        <criatura id="0010A24D">
+            <nombre>Muflón</nombre>
+            <movilidad>Terrestre</movilidad>
+            <vida valor="HP">100</vida>
+        </criatura>
+        <criatura id="XX0008C3">
+            <nombre>Conejo</nombre>
+            <movilidad>Terrestre</movilidad>
+            <vida valor="HP">25</vida>
+        </criatura>
+        <criatura id="XX0008C1">
+            <nombre>Antilope</nombre>
+            <movilidad>Terrestre</movilidad>
+            <vida valor="HP">110</vida>
+        </criatura>
+        <criatura id="000FEEC0">
+            <nombre>Gato</nombre>
+            <movilidad>Terrestre</movilidad>
+            <vida valor="HP">10</vida>
+        </criatura>
+        <criatura id="00106EFD">
+            <nombre>Gallina</nombre>
+            <movilidad>Terrestre</movilidad>
+            <vida valor="HP">5</vida>
+        </criatura>
+    </categoria>
+</fallout>
