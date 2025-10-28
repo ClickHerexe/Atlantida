@@ -1,0 +1,17 @@
+<!-- ESTO ES UN MENU DE UN RESTAURANTE -->
+<menu>
+    <categoria nombre = "Plato principal"> 
+        <plato id="1">
+            <nombre>Hamburguesa</nombre>
+            <precio moneda = "EUR">5.50</precio>
+            <calorias unidad = "cal">200</calorias>
+        </plato>
+    </categoria>
+    <categoria nombre="Postre">
+        <plato id="2">
+            <nombre>Tarta de 3 chocolates</nombre>
+            <precio moneda = "EUR">3.50</precio>
+            <calorias unidad = "cal">300</calorias>
+        </plato> 
+    </categoria>
+</menu>
